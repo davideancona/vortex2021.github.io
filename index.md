@@ -1,3 +1,9 @@
+---
+layout: default
+title: VORTEX 2021 home
+show_downloads: false
+---
+
 # VORTEX 2021 
 ## Verification and mOnitoring at Runtime EXecution
 
