@@ -7,8 +7,12 @@ show_downloads: false
 # VORTEX 2021 
 ## Verification and mOnitoring at Runtime EXecution
 
-### Co-Organizers
+**VORTEX** brings together researchers working on all aspects of **Runtime Monitoring (RM)** with emphasis on integration with formal verification and testing.
 
-- Wolfgang Ahrendt, Chalmers University of Technology, Sweden
-- Davide Ancona, DIBRIS, University of Genova, Italy
-- Adrian Francalanza, University of Malta, Malta
+## Co-Organizers
+
+- [Wolfgang Ahrendt, Chalmers University of Technology, Sweden](http://www.cse.chalmers.se/~ahrendt/)
+- [Davide Ancona, DIBRIS, University of Genova, Italy](https://person.dibris.unige.it/ancona-davide/)	
+- [Adrian Francalanza, University of Malta, Malta](http://staff.um.edu.mt/afra1/)
+
+## [About](about.md)
