@@ -15,4 +15,12 @@ show_downloads: false
 - [Davide Ancona, DIBRIS, University of Genova, Italy](https://person.dibris.unige.it/ancona-davide/)	
 - [Adrian Francalanza, University of Malta, Malta](http://staff.um.edu.mt/afra1/)
 
+## Important dates
+
+* Author notification: Mon 17 May 2021
+* Camera ready submission: Fri 4 Jun 2021
+* Workshop: Mon 12 Jul 2021
+
+
 ## [About](about.md)
+
