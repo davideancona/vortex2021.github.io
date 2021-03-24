@@ -17,6 +17,7 @@ show_downloads: false
 
 ## Important dates
 
+* **Submission deadline**: Fri 30 Apr 2021
 * Author notification: Mon 17 May 2021
 * Camera ready submission: Fri 4 Jun 2021
 * Workshop: Mon 12 Jul 2021
@@ -24,3 +25,4 @@ show_downloads: false
 
 ## [About](about.md)
 
+## [Call for Papers](cfp.md)
