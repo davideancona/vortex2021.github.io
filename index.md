@@ -20,7 +20,7 @@ show_downloads: false
 * **Submission deadline**: Fri 30 Apr 2021
 * Author notification: Mon 17 May 2021
 * Camera ready submission: Fri 4 Jun 2021
-* Workshop: Mon 12 Jul 2021
+* Virtual workshop: Mon 12 Jul 2021
 
 
 ## [About](about.md)
