@@ -26,3 +26,5 @@ show_downloads: false
 ## [About](about.md)
 
 ## [Call for Papers](cfp.md)
+
+## [Proceedings](proc.md)
