@@ -4,6 +4,8 @@ title: VORTEX 2021 Call for Papers
 show_downloads: false
 ---
 
+[Call for Papers in text format](cfp.txt)
+
 Submissions are expected to be in English and to belong to one of the following two categories:  
 
 * regular paper, page limit 8 in `acmart` style: unpublished self-contained work

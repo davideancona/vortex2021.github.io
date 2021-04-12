@@ -1,0 +1,94 @@
+ VORTEX 2021, online Workshop at ECOOP/ISSTA 2021, Monday 12 July
+International Workshop on Verification and mOnitoring at Runtime EXecution
+(https://conf.researchr.org/track/ecoop-issta-2021/ecoop-issta-2021-vortex)
+
+================================================================================
+
+VORTEX brings together researchers working on all aspects of Runtime Monitoring
+(RM) with emphasis on integration with formal verification and testing.
+
+RM is concerned with the runtime analysis of software and hardware system
+executions in order to infer properties relating to system behaviour. Example
+applications include telemetry, log aggregation, threshold alerting, performance
+monitoring and adherence to correctness properties (more commonly referred to as
+Runtime Verification).
+
+RM has gained popularity as a solution to ensure software reliability, bridging
+the gap between formal verification and testing: on the one hand, the notion of
+event trace abstracts over system executions, thus favoring system agnosticism
+to better support reuse and interoperability; on the other hand, monitoring a
+system offers more opportunities for addressing error recovery, self-adaptation,
+and issues that go beyond software reliability.
+
+The goal of VORTEX is to bring together researchers contributing on all aspects
+of RM covering and possibly integrating both theoretical and practical aspects,
+with particular focus on hybrid approaches inspired by formal methods, program
+analysis, testing.
+
+Covid-19
+--------
+
+ECOOP 2021, ISSTA 2021, and all the affiliated events will take place virtually.
+
+Call for Papers
+---------------
+
+Submissions are expected to be in English and to belong to one of the following
+two categories:
+
+*    regular paper, page limit 8 in acmart style: unpublished self-contained work
+*    extended abstract, page limit 4 in acmart style: original contribution, not yet fully developed
+
+Topics of interest include, but are not limited to, the following ones:
+
+*    monitor construction and synthesis techniques
+*    program adaptation
+*    monitoring oriented programming
+*    runtime enforcement, fault detection, recovery and repair
+*    combination of static and dynamic analyses
+*    specification formalisms for RM
+*    specification mining
+*    monitoring concurrent/distributed systems
+*    RM for safety and security
+*    RM for the Internet of Things
+*    industrial applications
+*    integrating RM, formal verification, and testing
+*    tool development
+*    instrumentation techniques for RM
+*    surveys on different RM tools, formal frameworks or methodologies
+*    presentations of RM tools
+
+Papers must be submitted electronically via EasyChair; the submission deadline
+is April 30 AoE. Authors should use the official ACM Master article template,
+which can be obtained from the ACM Proceedings Template pages.
+
+Latex users should use the sigconf option, as well as review to produce line
+numbers for easy reference by the reviewers, as indicated by the following
+command:
+
+\documentclass[sigconf,review]{acmart}
+
+Important Dates
+---------------
+
+* Submission deadline: Fri 30 Apr 2021
+* Author notification: Mon 17 May 2021
+* Camera ready submission: Fri 4 Jun 2021
+* Virtual workshop: Mon 12 Jul 2021
+
+
+Proceedings
+-----------
+
+Accepted regular papers and extended abstracts will be included
+in the proceedings published in the ACM Digital Library.
+
+
+Workshop Organizers
+-------------------
+
+* Wolfgang Ahrendt, Chalmers University of Technology, Sweden
+
+* Davide Ancona, Università di Genova, Italy
+
+* Adrian Francalanza, University of Malta, Malta 
