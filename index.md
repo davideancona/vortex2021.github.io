@@ -28,3 +28,9 @@ show_downloads: false
 ## [Call for Papers](cfp.md)
 
 ## [Proceedings](proc.md)
+
+## Previous editions
+
+* [VORTEX 2016](https://2016.ecoop.org/track/VORTEX-2016)
+* [VORTEX 2018](https://2018.ecoop.org/track/vortex-2018-papers)
+* [VORTEX 2019](https://2019.ecoop.org/home/vortex-2019)
