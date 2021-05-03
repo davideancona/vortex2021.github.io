@@ -4,7 +4,7 @@ title: VORTEX 2021 Call for Papers
 show_downloads: false
 ---
 
-[Call for Papers in text format](cfp.txt)
+[Call for Papers in text format](ext-cfp.txt)
 
 Submissions are expected to be in English and to belong to one of the following two categories:  
 

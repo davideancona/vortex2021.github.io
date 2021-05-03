@@ -17,7 +17,7 @@ show_downloads: false
 
 ## Important dates
 
-* **Submission deadline**: Fri 30 Apr 2021
+* **Extended submission deadline**: Fri 7 May 2021
 * Author notification: Mon 17 May 2021
 * Camera ready submission: Fri 4 Jun 2021
 * Virtual workshop: Mon 12 Jul 2021
