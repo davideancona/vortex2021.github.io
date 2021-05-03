@@ -58,8 +58,8 @@ Topics of interest include, but are not limited to, the following ones:
 *    surveys on different RM tools, formal frameworks or methodologies
 *    presentations of RM tools
 
-Papers must be submitted electronically via EasyChair; the submission deadline
-is April 30 AoE. Authors should use the official ACM Master article template,
+Papers must be submitted electronically via EasyChair; the extended submission deadline
+is May 7 AoE. Authors should use the official ACM Master article template,
 which can be obtained from the ACM Proceedings Template pages.
 
 Latex users should use the sigconf option, as well as review to produce line
